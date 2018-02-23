@@ -4,6 +4,7 @@ from Controller import BlackboardController
 def main():
         controller = BlackboardController()
         controller.controll()
+        path = '/media/sf_ShareCV/descarga.jpg'
 
 if __name__== "__main__":
     try:
